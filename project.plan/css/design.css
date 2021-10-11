@@ -19,6 +19,7 @@ header{
 main{
     display: block;
     background-color: rgb(132, 165, 157);
+    font-style: 'Bebas Neue', cursive ;
 }
 font-family: 'Bebas Neue', cursive;
 font-family: 'Open Sans Condensed', sans-serif;
