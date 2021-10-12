@@ -21,8 +21,35 @@ main{
     display: block;
     background-color: rgb(132, 165, 157);
     font-style: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    padding: 1em;
+    display: block;
 }
-font-family: 'Bebas Neue', cursive;
-font-family: 'Open Sans Condensed', sans-serif;
-font-family: 'Pattaya', sans-serif;
-font-family: 'Poiret One', cursive;
+.design-of-website{
+  
+ 
+}
+.title-page-font{
+    font-family: 'Poiret One', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+.paragraph-font{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+    text-align: center;
+
+}
+.nav-font{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+.header-font {
+    
+    font-family: 'Pattaya', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
