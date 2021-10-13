@@ -10,6 +10,7 @@ body{
 header{
     text-align: center;
     font-family: 'Poiret One', cursive;
+    font-size: 40px;
 }
 .agile{
     display: block;
@@ -24,11 +25,9 @@ main{
     font-size: 20px;
     padding: 1em;
     display: block;
+    margin:4em;
 }
-.design-of-website{
-  
- 
-}
+
 .title-page-font{
     font-family: 'Poiret One', cursive;
     font-size: 40px;
@@ -52,4 +51,37 @@ main{
     font-size: 40px;
     text-align: center;
 }
+.agile-img{
+    width: 50%;
+     border: 10px double #F6BD60;
+     -webkit-box-shadow: 5px -1px 49px 19px rgba(0,0,0,0.3); 
+box-shadow: 5px -1px 49px 19px rgba(0,0,0,0.3);
+}
+.color-scheme{
+  display: block;
+  margin-left: auto;
+  -webkit-box-shadow: 5px -1px 49px 19px rgba(0,0,0,0.3); 
+box-shadow: 5px -1px 49px 19px rgba(0,0,0,0.3);
+  width: 50%;
+  border: 10px double #F6BD60;
+}
+#design-style{
+border: 7px dotted #F5CAC3;
+border-radius: 18px;
+padding:1em;
+margin-block: 20px;
+margin:4em;
+}
+#purpose{
+    border: 7px dotted #F5CAC3;
+border-radius: 18px;
+padding:1em;
+margin:4em;
 
+}
+#pmp{
+border: 7px dotted #F5CAC3;
+border-radius: 18px;
+padding:1em;
+margin:4em;
+}
